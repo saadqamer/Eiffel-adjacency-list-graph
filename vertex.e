@@ -10,12 +10,7 @@
 		sorted based on comparable items in destination vertices. This allows
 		for a unique ordering as in breadth first searches etc.
 			]"
-	note_to_student: "[
-		Only modify features that have a `Todo` comment inside of them.
-		You must also write the postcondition for command `remove_edge`.
-		]"
 	ca_ignore: "CA085"
-	author: "JSO and JW"
 	date: "$Date$"
 	revision: "$Revision$"
 
