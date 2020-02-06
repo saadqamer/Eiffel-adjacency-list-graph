@@ -3,7 +3,6 @@ note
 		ROOT class for Lab1: List Graph
 		See tests in TEST_VERTEX_INSTRUCTOR.
 	]"
-	author: "JSO and JW and CD"
 
 class ROOT inherit
 
